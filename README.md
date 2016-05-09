@@ -1,6 +1,9 @@
-COLLECTED TOOL
-==============
+    __ __                           
+   / //_/________  _________  ____ _
+  / ,<  / ___/ _ \/ ___/ __ \/ __ `/
+ / /| |/ /  /  __(__  ) / / / /_/ / 
+/_/ |_/_/   \___/____/_/ /_/\__,_/  
+_____________________________________                                    
+This is my tools.
 
-Many tool what i have collected .
-
-1.
+1. Kripton Automatic Encryption & Decryption Tools v.0.1
