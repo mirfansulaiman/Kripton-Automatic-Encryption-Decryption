@@ -2,7 +2,9 @@ Name : Kripton Automatic Encryption & Decryption Tools
 
 Current encryption use AES256.
 
-Features : 1.Encryption / Decryption single file.
+Features : 
+
+           1.Encryption / Decryption single file.
 
            2.Encryption / Decryption files with a certain extension.
            
