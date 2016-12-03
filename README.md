@@ -10,4 +10,6 @@ Features :
            
            3.Encryption / Decryption All files.
            
+For this time, secretkey cannot > 16 characters.
+use this sample : in_your_minds_ur
 Note : Use for learning or used properly Regardless of the author is not responsible for the misuse.
